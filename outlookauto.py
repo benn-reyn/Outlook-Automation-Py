@@ -3,17 +3,7 @@ import win32com.client
 from docx import Document
 
 options = set([
-    "OPTIONS FOR SUBJECT TEMPLATE: ", "!!PROXY!!", "Activate Child Parent Has MyChart", "Activation Code-Instant COVID",
-    "Activation Code-Instant-Activate", "Adult Activation-3-21-2022", "Activation Set Up Reqrd Child 3-21",
-    "Address Activation 3-21", "Already Activated Links", "Already Activated-Mathis Link",
-    "Billing Statement", "Billing Customer Service", "Covid Vaccine Scheduling Link",
-    "Document Covid Vaccine", "E-Visits", "Happy Together-EPIC", "Helix Account",
-    "Immunize Covid Vaccine Card", "In Our DNA SC", "Insurance Update", "Link My Accounts",
-    "Medical Records", "Message Doctor", "MyChart Link", "No Patient Found", "Old Enough to Have Own MyChart",
-    "Print COVID Vaccine Information", "Proxy Use Access", "Reactivated", "Reset Password", "SC Code of Laws",
-    "Schedule Appt Thru MyChart", "Too Young-Request Actvatn Code", "Too Young to Have MyChart Acct",
-    "Troubleshoot-Activation", "Troubleshoot-Full Name", "Troubleshoot-Reactivate", "Unable to Process your Request",
-    "Wrong Address", "Wrong DOB"
+    "OPTIONS FOR SUBJECT TEMPLATE: ", "INFORMATION IN THIS SECTION IS CONFIDENTIAL AND HAD TO BE REMOVED"
 ])
 
 def read_word_file(file_path):
